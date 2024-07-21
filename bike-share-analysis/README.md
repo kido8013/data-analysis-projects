@@ -136,3 +136,7 @@ Target casual users with promotional offers to upgrade to full membership, focus
 # Conclusion
 
 The analysis provided valuable insights into the differences in usage patterns between casual riders and annual members. Implementing the proposed strategies could help increase annual memberships and overall customer satisfaction.
+
+# Source
+
+Data can be found at https://divvy-tripdata.s3.amazonaws.com/index.html.
