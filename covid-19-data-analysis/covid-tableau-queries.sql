@@ -3,7 +3,7 @@
 Queries used for Tableau Project
 
 */
-
+--Global numbers generated to showcase total cases, total deaths, and the global death percentage. 
 
 SELECT
     SUM(new_cases) AS total_cases,
@@ -19,6 +19,7 @@ ORDER BY
 
 -- 2. 
 
+-- Table created to determine total death count per continent
 -- We take these out as they are not inluded in the above queries and want to stay consistent
 -- European Union is part of Europe
 
@@ -38,6 +39,8 @@ ORDER BY
 
 -- 3.
 
+--This query is designed to analyze COVID-19 infection data by location, calculating the highest infection counts and the percentage of the population infected for each location.
+
 SELECT
     location,
     population,
@@ -51,6 +54,8 @@ ORDER BY
 
 
 -- 4.
+
+--Table created to analyze the percent population infected by location, created like query 3 however organized in a different way for analysis. 
 
 SELECT
     location,
