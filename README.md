@@ -31,6 +31,12 @@ Overview: Created an interactive Tableau dashboard to explore metrics of reviews
 Includes visualizations such as overall rating trends, average ratings by country and aircraft, with interactive features like metric selection and data filters.
 [View Project](british-airways-review-interactive-tableau)
 
+### Bike Buyers Excel Project
+
+Overview: Organized and cleaned data using excel to create pivot tables and a interactive dashboard for analysis.
+Includes visualizations such as the overall trends based on gender, age, and commute distance based on those who purchased bikes and those who didn't. 
+[View Project](bike-buyers-excel-project).
+
 ### Technical Skills:
 Data Visualization: Tableau, Excel
 Programming Languages: R, SQL
